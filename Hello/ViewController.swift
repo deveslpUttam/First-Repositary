@@ -28,8 +28,7 @@ class ViewController: UIViewController {
         wish.isHidden = false
         background.isHidden = false
         start.isHidden = true
-        
-        print("Every thing is working fine")
-    }
+                print("Every thing is working fine")
+           }
 }
 
